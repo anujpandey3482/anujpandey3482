@@ -1,3 +1,5 @@
+<img width="2560" height="424" alt="photo_6084524845505908431_w (1)" src="https://github.com/user-attachments/assets/9c215a12-561e-4843-98ae-63678bf15d0c" />
+
 # 💫 Hi 👋, I'm Anuj Pandey
 **A passionate Data Analyst**
 
